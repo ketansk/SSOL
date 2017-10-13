@@ -1,0 +1,2 @@
+# SSOL
+NBA prediction model
